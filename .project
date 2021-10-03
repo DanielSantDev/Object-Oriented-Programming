@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Protótipo Orientado a Objetos</name>
+	<name>Exercícios Java</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/fusca_encapsulamento/Automovel.class</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Object-Oriented-Programming/bin/fusca_encapsulamento/Automovel.class</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>

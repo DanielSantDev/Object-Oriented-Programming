@@ -12,7 +12,6 @@ public class ContaBanco {
 	//Métodos Personalizados
 	public void abrirConta(String t) {
 		this.setTipo(t);
-		this.setStatus(true);
 		if (t == "CC") {
 			this.saldo = 50;
 			this.setSaldo(50);
@@ -77,15 +76,7 @@ public class ContaBanco {
 		return this.saldo = n;
 	}
 	
-	public boolean getStatus() {
-		return this.status;
-	}
-	
-	public boolean setStatus(boolean ) {
-		
-	}
-	
-	
+}
 	
 	
 	
