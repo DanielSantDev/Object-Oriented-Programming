@@ -4,7 +4,7 @@ public class Funcionario {
 	private String cartao;
 
 	public String getCartao() {
-		return cartao;
+		return (cartao);
 	}
 
 	public void setCartao(String cartao) {

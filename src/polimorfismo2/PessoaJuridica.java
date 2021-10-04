@@ -4,7 +4,7 @@ public class PessoaJuridica extends Contribuinte {
 	public String cnpj;
 
 	public String getCnpj() {
-		return cnpj;
+		return (cnpj);
 	}
 
 	public void setCnpj(String cnpj) {

@@ -5,7 +5,7 @@ public class PessoaFisica extends Contribuinte{
 	private String rg;
 
 	public String getRg() {
-		return rg;
+		return (rg);
 	}
 
 	public void setRg(String rg) {
