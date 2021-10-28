@@ -25,7 +25,7 @@ public class Polimorfismo {
 			pessoa = new PessoaJuridica(); break; //instância pela classe PessoaJuridica
 		
 		case 4:
-			pessoa = new Funcionario(); break; //instância pela classe Funcionario
+			//pessoa = new Funcionario(); break; //instância pela classe Funcionario
 		
 			default: {System.out.println("tipo não pertence à familia");
 				System.exit(0);	}
