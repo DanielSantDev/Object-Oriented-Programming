@@ -1,4 +1,4 @@
-package herança;
+package heranca;
 
 public class Classe_Filha_2 extends Classe_Filha_1 {
 

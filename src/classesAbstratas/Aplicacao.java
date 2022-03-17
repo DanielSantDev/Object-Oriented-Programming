@@ -1,6 +1,6 @@
 package classesAbstratas;
 
-public class Aplicação {
+public class Aplicacao {
 
 	public static void main(String[] args) {
 		

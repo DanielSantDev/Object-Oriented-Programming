@@ -1,11 +1,11 @@
-package herança;
+package heranca;
 
 public class SuperClasse {
 	
 	private String atributo_1;
 	
 	SuperClasse(){
-		System.out.println("acesso ao método construtor da SuperClasse");
+		System.out.println("acesso ao mï¿½todo construtor da SuperClasse");
 	}
 	
 	public void set_atributo_1(String atributo_1) {

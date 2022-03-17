@@ -2,14 +2,14 @@ package polimorfismo;
 
 import javax.swing.*;
 
-public class Empresa_de_Construção {
+public class Empresa_de_Construcao {
 	
 	public static void main(String[] args) {
 		
 		Construcao pedreiro = null;
 		
 		int tipo_construcao = Integer.parseInt(JOptionPane.showInputDialog("Digitar o tipo "
-				+ "de construção: " + "\n" + "1 - CASA e 2 - APARTAMENTO ou 3 - TUDO" ));
+				+ "de construï¿½ï¿½o: " + "\n" + "1 - CASA e 2 - APARTAMENTO ou 3 - TUDO" ));
 		
 		switch(tipo_construcao) {
 		case 1:
@@ -22,7 +22,7 @@ public class Empresa_de_Construção {
 			pedreiro = new Construcao(); break;
 			
 			default:
-				System.out.println("CONSTRUÇÃO INDEFINITIVA");
+				System.out.println("CONSTRUï¿½ï¿½O INDEFINITIVA");
 				System.exit(0);	}//fim do switch case
 		
 			pedreiro.constroi();

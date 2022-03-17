@@ -1,4 +1,4 @@
-package herança2;
+package heranca2;
 
 public class Centro_Paula_Souza {
 	private String Fatec;
@@ -6,7 +6,7 @@ public class Centro_Paula_Souza {
 	
 	public Centro_Paula_Souza(String cidade) {
 		this.cidade = cidade;
-		System.out.println("método construtor da superclasse \n" + "cidade: " + cidade);
+		System.out.println("mï¿½todo construtor da superclasse \n" + "cidade: " + cidade);
 	}
 	
 	public void setFatec(String Fatec) {

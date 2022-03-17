@@ -1,4 +1,4 @@
-package padrãoStrategyInterface;
+package padraoStrategyInterface;
 
 public class Comprar_verdura implements Fazer_feira{
 	

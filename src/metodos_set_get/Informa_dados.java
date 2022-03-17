@@ -1,4 +1,4 @@
-package métodos_set_get;
+package metodos_set_get;
 
 import javax.swing.JOptionPane;
 
@@ -16,7 +16,7 @@ public class Informa_dados {
 		a.setNome(JOptionPane.showInputDialog("Digite o nome: "));
 		a.setCPF(JOptionPane.showInputDialog("Digite o CPF: "));
 		a.setCNPJ(JOptionPane.showInputDialog("Digite o CNPJ: "));
-		a.setCartao(JOptionPane.showInputDialog("Digite o Cartão: "));
+		a.setCartao(JOptionPane.showInputDialog("Digite o Cartï¿½o: "));
 		
 		System.out.println("nome do contribuinte " + a.getNome());
 		System.out.println("CPF do contribuinte " + a.getCPF());

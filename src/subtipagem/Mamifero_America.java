@@ -1,6 +1,6 @@
 package subtipagem;
 
-public class Mamifero_America extends Mamífero{
+public class Mamifero_America extends Mamifero{
 	
 	Mamifero_America(){}
 

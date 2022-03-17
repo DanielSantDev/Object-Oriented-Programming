@@ -1,4 +1,4 @@
-package herança2;
+package heranca2;
 
 public class Disciplinas_CEETEPs extends Faculdade_CEETEPs{
 	

@@ -4,20 +4,20 @@ public class Aplica_Subtipagem {
 
 	public static void main(String[] args) {
 		
-		Define_Mamífero df = new Define_Mamífero();
-		Mamífero f = null;
+		Define_Mamifero df = new Define_Mamifero();
+		Mamifero f = null;
 		
-		//1ª iteração
-		f = df.tipo_mamífero("cachorro");
-		df.verifica_instância(f);
+		//1ï¿½ iteraï¿½ï¿½o
+		f = df.tipo_Mamifero("cachorro");
+		df.verifica_instancia(f);
 		
-		//2ª iteração
-		f = df.tipo_mamífero("puma");
-		df.verifica_instância(f);
+		//2ï¿½ iteraï¿½ï¿½o
+		f = df.tipo_mamifero("puma");
+		df.verifica_instancia(f);
 		
-		//3ª iteração
-		f = df.tipo_mamífero("onça");
-		df.verifica_instância(f);
+		//3ï¿½ iteraï¿½ï¿½o
+		f = df.tipo_mamifero("onï¿½a");
+		df.verifica_instancia(f);
 		
 	}
 	

@@ -1,4 +1,4 @@
-package padrãoStrategyInterface;
+package padraoStrategyInterface;
 
 public interface Fazer_feira {
 

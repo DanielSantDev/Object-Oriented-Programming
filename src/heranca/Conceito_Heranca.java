@@ -1,6 +1,6 @@
-package herança;
+package heranca;
 
-public class Conceito_Herança {
+public class Conceito_Heranca {
 	
 	public static void main(String[] args) {
 		

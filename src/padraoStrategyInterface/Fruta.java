@@ -1,4 +1,4 @@
-package padrãoStrategyInterface;
+package padraoStrategyInterface;
 
 public class Fruta extends Feira{
 	

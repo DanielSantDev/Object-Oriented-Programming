@@ -1,12 +1,12 @@
-package herança2;
+package heranca2;
 
 public class Faculdade_CEETEPs extends Centro_Paula_Souza{
 	private String faculdade;
 	
 	public Faculdade_CEETEPs() {
 		super("Santos");
-		/*o método super() acessa o método da classe
-		 * com hierarquia imediatamente superior na relação de herança*/
+		/*o mï¿½todo super() acessa o mï¿½todo da classe
+		 * com hierarquia imediatamente superior na relaï¿½ï¿½o de heranï¿½a*/
 	}
 
 	public void setFaculdade(String faculdade) {
